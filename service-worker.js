@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cookpad_react/precache-manifest.caa822070499afee94ab341c3a92e4f8.js"
+  "/cookpad_react/precache-manifest.fe624694c7ecc2e693b264b58120d853.js"
 );
 
 workbox.clientsClaim();
