@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/cookpad_react/static/js/runtime~main.fc40c7b4.js"
   },
   {
-    "revision": "bdae016c33400ca5bdbf",
-    "url": "/cookpad_react/static/js/main.bdae016c.chunk.js"
+    "revision": "5d07f613bd2812c78882",
+    "url": "/cookpad_react/static/js/main.5d07f613.chunk.js"
   },
   {
     "revision": "887281b50e487a87ec26",
     "url": "/cookpad_react/static/js/1.887281b5.chunk.js"
   },
   {
-    "revision": "29452e994de1fabeb78ab555f5f8f37f",
+    "revision": "7213a93f1a92e369cba2369180a56bb8",
     "url": "/cookpad_react/index.html"
   }
 ];
